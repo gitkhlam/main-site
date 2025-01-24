@@ -1,6 +1,7 @@
 # Мой сайт
 
-Первоисточник: https://github.com/javascriptlearnerua?tab=repositories
+Сдесь собраны мои все веб-работы, верстка, сайты и тд, которые стоят внимания.
+**Первоисточник:** https://github.com/javascriptlearnerua?tab=repositories
 
 ### Wordslearning
 
