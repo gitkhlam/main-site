@@ -2,7 +2,7 @@
 
 Сдесь собраны мои все веб-работы, верстка, сайты и тд, которые стоят внимания.
 **Первоисточник:** https://github.com/javascriptlearnerua?tab=repositories
-https://gitkhlam.github.io/main-site/
+##### https://gitkhlam.github.io/main-site/
 
 ### Wordslearning
 
